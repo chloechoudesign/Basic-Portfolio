@@ -141,6 +141,10 @@ input[type=submit] {
     font-size: 17px;
   }
 
+  input[type=submit]:hover {
+ 	background-color: #377F7C;
+  }
+
 .portfolio-container{
 	width: 100%;
 	text-align: center;
@@ -209,6 +213,10 @@ aside hr{
 	height: 65px;
 	padding: 10px;
 	border-radius: 5px;
+}
+
+.social-icon:hover{
+	background-color: #BFBFBF;
 }
 
 .first{
