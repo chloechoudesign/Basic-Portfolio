@@ -1,3 +1,3 @@
 # Basic-Portfolio
 
-Live site may be seen at: https://chloechoudesign.github.io/Basic-Portfolio/
+Live site: https://chloechoudesign.github.io/Basic-Portfolio/
